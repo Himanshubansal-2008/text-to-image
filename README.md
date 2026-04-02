@@ -66,9 +66,6 @@ npm run build
 3. **Synthesis**: The Stable Diffusion XL model generates the image based on your prompt.
 4. **Result**: The image is displayed on the canvas and automatically added to your generation history.
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
